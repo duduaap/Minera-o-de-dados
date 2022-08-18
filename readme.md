@@ -1,0 +1,1 @@
+Nesse trabalho foi utilizado python e a biblioteca pandas para fazer um webscrap, limpeza e análise de dados do twitter, com tweets relacionados a Lei Rounet. 
